@@ -27,3 +27,6 @@ REST API receiving accelorometers data and storing them into Cassandra. Each acc
 }
 ```
 * returned status: 201 CREATED
+
+
+#Enhacements made on a copied repo
